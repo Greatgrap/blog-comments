@@ -1,0 +1,7 @@
+{
+  "origins": ["https://blog.greatgrap.com"],
+  "issue-term": "pathname",
+  "theme": "photon-dark",
+  "crossorigin": "anonymous",
+  "issue-label": "pathname"
+}
